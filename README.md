@@ -102,10 +102,3 @@ This project detects **static Nepali sign language alphabets (Ka–Gyan)** and *
 * **Jyoti Dangal** – Feature analysis, objectives, ER diagram, architecture, testing( Project Leader)
 * **Renu Singh** – Problem analysis, DFD, GUI design, integration testing
 
----
-If you want, I can also:
-✅ shorten this README
-✅ convert it to **professional GitHub style (badges, screenshots, demo GIF)**
-✅ tailor resume bullets for **AI/ML jobs** or **software developer roles**
-
-Just tell me 👍
