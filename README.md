@@ -1,50 +1,3 @@
-Got it 👍
-I’ll **convert your full project report into (1) resume-ready bullet points and (2) a clean, professional GitHub README**—concise, technical, and impactful, without losing academic depth.
-
----
-
-## 1️⃣ Resume Description (ATS-friendly & concise)
-
-You can use **any one** of these depending on resume length.
-
-### 🔹 Short Version (2–3 bullets)
-
-**Nepali Sign Language Detection System**
-
-* Developed a real-time Nepali Sign Language (NSL) recognition system using **CNNs, MediaPipe, OpenCV, and TensorFlow**, achieving **>99% validation accuracy**.
-* Implemented **character-level (Ka–Gyan)** and **word-level gesture recognition** with live webcam input and **Text-to-Speech (TTS)** output.
-* Built a **React frontend and Django REST backend** to deliver visual and audio translation for inclusive communication.
-
----
-
-### 🔹 Standard Version (4–5 bullets)
-
-**Nepali Sign Language Detection System | Deep Learning Project**
-
-* Designed and trained CNN models for **static NSL alphabet recognition (Ka–Gyan)** and **real-time word-level gesture detection** using MediaPipe hand landmarks.
-* Collected and trained on a **custom dataset (~1,000 images per class)** with dropout and early stopping to prevent overfitting.
-* Achieved **over 99% validation accuracy**, demonstrating stable convergence of loss and accuracy curves.
-* Integrated **Django backend, React frontend**, and **Text-to-Speech (TTS)** for real-time visual and audio output.
-* Tools: **Python, TensorFlow, OpenCV, MediaPipe, Django, React**.
-
----
-
-### 🔹 Academic / Final-Year Project Version
-
-**Nepali Sign Language Detection System (Final Year Project)**
-
-* Built a deep learning–based system to bridge communication gaps for Nepal’s deaf and hard-of-hearing community.
-* Implemented CNN-based static gesture recognition and real-time word detection using webcam input and MediaPipe.
-* Designed complete SDLC using **Prototype Model**, including requirement analysis, system design (DFD, ER, Use Case), testing, and deployment.
-* Delivered a scalable architecture with future scope for dynamic gestures, sentence translation, and multilingual voice support.
-
----
-
-## 2️⃣ GitHub README (Professional & Clean)
-
-You can copy-paste this directly into `README.md` 👇
-
----
 
 # 🖐️ Nepali Sign Language Detection System
 
@@ -150,13 +103,6 @@ This project detects **static Nepali sign language alphabets (Ka–Gyan)** and *
 * **Renu Singh** – Problem analysis, DFD, GUI design, integration testing
 
 ---
-
-## 📜 License
-
-This project is for **academic and research purposes**.
-
----
-
 If you want, I can also:
 ✅ shorten this README
 ✅ convert it to **professional GitHub style (badges, screenshots, demo GIF)**
